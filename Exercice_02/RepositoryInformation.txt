@@ -1,0 +1,1 @@
+In this exercise we have seen the different ways to comment code, either in HTML, CSS and JS. The comments we have put is to indicate what each tag used in each language is for.

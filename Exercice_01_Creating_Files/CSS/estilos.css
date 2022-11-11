@@ -1,0 +1,31 @@
+p {
+    background-color: darkkhaki; 
+    }
+
+b{
+    background-color: darkred;
+    color: antiquewhite;
+    }
+
+h1{
+    text-align: center;
+    background-color: darkred;
+    font-style: oblique;
+}
+
+h4{
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+h3{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    background-color:darkred;
+    color: aliceblue;
+    size: 25px;
+    
+}

@@ -1,0 +1,20 @@
+/* Éste archivo es el CSS donde le daremos colores a las etiquetas que queramos */
+
+/*Aquí editamos la etiqueta H1 y le he cambiado el color de fondo, color de letra, tamaño y he centrado el texto*/
+h1{ 
+
+    
+    background-color: crimson;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+/*Aquí edito el párrafo con un estilo de fuente diferente, color de letra y color de fondo*/
+
+p{
+    font-style: unset;
+    color: black;
+    background-color: beige;
+
+}

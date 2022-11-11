@@ -1,0 +1,1 @@
+Practice 1 very simple. We created a simple HTML5 structure and added a CSS style sheet to it
