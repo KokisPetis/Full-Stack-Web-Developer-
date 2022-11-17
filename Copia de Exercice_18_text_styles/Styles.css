@@ -1,0 +1,56 @@
+
+ h1{
+    text-align: center;
+ }
+
+h3{
+    text-align: center;
+}
+
+ #Inner {
+    width: 900px;
+    margin:  auto;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+  }
+#texto{
+    justify-content: center;
+    font-style:italic;
+    font-family: Arial;
+}
+#c{
+    margin-left: 200px;
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+  
+    
+}
+
+#b{
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+   
+}
+#a{
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+  
+}
+
+.linea{
+    height: 1px;
+}
+  
+#final{
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    color:mediumblue;
+    user-select: none;
+
+}
+  

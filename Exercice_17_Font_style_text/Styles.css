@@ -1,0 +1,51 @@
+ h1{
+    text-align: center;
+ }
+
+ h3{
+    text-align: center;
+ }
+
+ #Inner {
+    width: 900px;
+    margin:  auto;
+  }
+#texto{
+    justify-content: center;
+    font-style:italic;
+    font-family: Arial;
+}
+#texts{
+    text-align: center;
+    font-style: normal;
+}
+#c{
+    margin-left: 200px;
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+#b{
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+}
+#a{
+    margin-right: 150px;
+    text-align: center;
+    font-style: italic;
+}
+
+.linea{
+    height: 1px;
+}
+  
+#final{
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+
+}
+  
